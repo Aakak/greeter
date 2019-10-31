@@ -9,4 +9,7 @@ Web server are a sofrware running on someone's macine
 
 (client) === [web server (multiple web application/apis)]
 
+Dev Process 
 
+-write code
+- 
